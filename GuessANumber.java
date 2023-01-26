@@ -14,7 +14,7 @@ public class GuessANumber {
                 computerNumber += 50;
                 num += 50;
                 boolean isGuessed = false;
-                int tries = 20;
+                int tries = 10;
                 int countTries = 0;
                 while (!isGuessed) {
 
